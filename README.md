@@ -19,3 +19,6 @@ Points to be noted before getting into this----------------
 ===> ADB,SDK etc should be installed.
 
 ===>Android or IOS device must be connected as the emulator.
+
+Nb==> Please remember to change the path of directories accordingly if needed
+
